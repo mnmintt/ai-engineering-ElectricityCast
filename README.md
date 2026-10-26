@@ -15,12 +15,13 @@ Traffic congestion can cause longer travel times and make journey planning diffi
 - [Study/solution 3 + source/citation + key limitation]
   
 ## Project Objectives
-- O1: To ...
-- O2: To ...
-- O3: To ... (if applicable)
+- O1: To prepare and analyse historical traffic data for short-term traffic volume prediction.
+- O2: To develop and compare Linear Regression and Random Forest models for predicting traffic volume.
+- O3: To evaluate model performance using Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE).
   
 ## Target Users
-[Who will use this system?]
+- Drivers and daily commuters who want to understand expected traffic conditions.
+- Transport planners who need information to support traffic planning.
 
 ## Data Sources
 - [Source 1: document name — URL]
