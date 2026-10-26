@@ -79,20 +79,17 @@ EduAdvisor focuses on education-related information and guidance. ElectricityCas
 ## Responsible AI Risks (at least 2)
 
 **Risk 1: Inaccurate Predictions**
-
-The model may produce inaccurate predictions when electricity consumption changes unexpectedly.
+- The model may produce inaccurate predictions when electricity consumption changes unexpectedly.
 
 **Mitigation:** Test the model using later months that were not used during training, evaluate its performance using MAE and RMSE, and explain that predictions are estimates.
 
 **Risk 2: Misinterpretation of Results**
-
-Users may believe that the predicted consumption is guaranteed or that it represents electricity usage in their own homes.
+- Users may believe that the predicted consumption is guaranteed or that it represents electricity usage in their own homes.
 
 **Mitigation:** Clearly display the sector, measurement unit, and prediction period. Explain that the system predicts sector-level consumption rather than individual household bills.
 
 **Risk 3: Data Quality and Updates**
-
-Some recent electricity consumption figures may be provisional or revised later, which could affect model performance.
+- Some recent electricity consumption figures may be provisional or revised later, which could affect model performance.
 
 **Mitigation:** Check for missing or unusual values, record when the dataset was downloaded, and explain that recent figures may change.
 
