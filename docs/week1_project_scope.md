@@ -43,6 +43,7 @@ Electricity consumption in Malaysia changes from month to month. Energy planners
 
 ## Engineering Gap / Limitation
 
+
 ## Initial Project Objectives (2–3)
 
 **O1:** To collect, explore, and prepare historical monthly electricity consumption data from Malaysia's official open data portal.
