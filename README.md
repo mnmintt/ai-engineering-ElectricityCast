@@ -1,9 +1,9 @@
-# TrafficCast - AI Traffic Congestion Predictor
+# ElectricityCast- AI Electricity Consumption Predictor
 
-> A machine learning system that predicts short-term traffic volume using historical traffic data to help commuters understand expected traffic conditions.
+> A machine learning system that predicts future electricity consumption in Malaysia using historical data and displays the results through an interactive dashboard.
 
 ## Problem Statement
-Traffic congestion can cause longer travel times and make journey planning difficult. Drivers may not know how busy a road will be at a particular time. AI engineering can help by using historical traffic data to predict future traffic volume and provide useful information about expected traffic conditions.
+Electricity consumption changes over time due to different usage patterns and other factors. Without a prediction system, energy planners and electricity providers may find it difficult to estimate future electricity demand. AI engineering can help solve this problem by using historical electricity data to train a machine learning model that predicts future consumption.
 
 ## Evidence of the Problem
 - [Evidence 1 + source/citation]
@@ -15,14 +15,14 @@ Traffic congestion can cause longer travel times and make journey planning diffi
 - [Study/solution 3 + source/citation + key limitation]
   
 ## Project Objectives
-- O1: To prepare and analyse historical traffic data for short-term traffic volume prediction.
-- O2: To develop and compare Linear Regression and Random Forest models for predicting traffic volume.
-- O3: To evaluate model performance using Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE).
+- O1: To collect and prepare historical monthly electricity consumption data from Malaysia's open data portal.
+- O2: To develop and compare Linear Regression and Random Forest models for predicting future electricity consumption.
+- O3: To evaluate the models using Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE), and display the predictions through an interactive dashboard.
   
 ## Target Users
-- Drivers and daily commuters who want to understand expected traffic conditions.
-- Transport planners who need information to support traffic planning.
-
+- Energy planners: To understand and estimate future electricity demand.
+- Electricity providers: To support electricity demand planning.
+  
 ## Data Sources
 - [Source 1: document name — URL]
 - [Source 2: document name — URL]
