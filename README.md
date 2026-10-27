@@ -1,28 +1,35 @@
 # MyHome Electricity Calculator
 
-> An interactive system that helps Malaysian households estimate electricity usage and bills by choosing their house type, adding rooms and appliances in their rooms, then viewing cost breakdowns and energy-saving suggestions
+> An AI-powered household energy management system that helps Malaysian households understand electricity consumption, estimate electricity costs, and receive personalised energy-saving recommendations through an AI assistant and chatbot
 
 ## Problem Statement
-Many households know the amount on their electricity bill but may not know which appliances or rooms contribute most to their electricity use. This makes it harder to understand daily energy habits and identify where electricity could be saved. MyHome Energy Calculator combines user input, an energy calculation engine, a bill estimation module, and an interactive dashboard to help users understand their household electricity usage.
+Many households do not know which rooms and appliances consume the most electricity or how their daily habits affect their electricity bills. Existing calculators can estimate energy usage, but users may need more personalised guidance to understand their results and identify possible improvements. MyHome Energy Calculator combines electricity calculations, interactive dashboards, AI recommendations, a chatbot, and a what-if simulator to help users make better energy-saving decisions.
 
 ## Evidence of the Problem
- - **Evidence 1:** Tenaga Nasional Berhad (TNB) provides official billing information and an electricity bill calculator, showing that customers may need tools to estimate their bills
- (Source: https://www.mytnb.com.my/energy-efficiency/home-energy-savings-tips/home-energy-calculator) 
-- [Evidence 2 + source/citation]
+ - **Evidence 1:** Tenaga Nasional Berhad (TNB) provides household energy calculation tools and energy-saving guidance. This provides a starting point for understanding existing solutions and identifying opportunities for improvement.
+   (Source: https://www.tnb.com.my/residential/energy-savings-at-home)
+- **Evidence 2:** Household electricity costs depend on factors such as appliance power ratings, usage hours, and applicable electricity tariffs. The Energy Commission also explains the components of the electricity pricing framework.
+  (Source: https://www.tnb.com.my/residential/energy-savings-at-home#usage-cost-of-electrical-appliances-at-home)
   
 ## Initial Related Work / Existing Approaches
-- [Study/solution 1 + source/citation + key limitation]
-- [Study/solution 2 + source/citation + key limitation]
-- [Study/solution 3 + source/citation + key limitation]
+**1. TNB Home Energy Calculator**
+- Allows users to configure a household and estimate electricity usage through household and appliance information.
+- Source: https://hec.tnb.com.my/Public/UsageCalculator
+  
+**2. Energy Commission Electricity Pricing Framework**
+- Explains electricity tariff components and the pricing framework in Peninsular Malaysia.
+- Source: https://www.st.gov.my/pricing/electricity-pricing-framework/components-ibr#section-2
+
   
 ## Project Objectives
-- O1: To develop a home energy usage calculator that allows users to set up a home, add rooms and appliances, and estimate electricity consumption based on appliance power and usage hours.
-- O2: To develop an electricity bill estimator that uses the user's estimated or entered consumption and applicable tariff information to calculate an approximate bill.
-- O3: To create an interactive dashboard showing total energy usage, estimated costs, room and appliance breakdowns, and practical energy-saving suggestions.
+- O1: To develop an interactive household energy calculator that estimates electricity consumption and costs based on rooms, appliances, and usage patterns.
+- O2: To develop a dashboard that compares electricity consumption across floors, rooms, and appliances.
+- O3: To implement AI-powered recommendations, a chatbot, and a what-if simulator to help users understand their energy usage and explore potential savings.
   
 ## Target Users
-- Malaysian households that want to understand their electricity usage.
-- People who want to compare the estimated cost of using different appliances or changing their usage hours.
+- Malaysian households that want to understand their electricity consumption.
+- Homeowners and tenants who want to identify appliances that use more electricity.
+- Users who want to explore ways to reduce electricity usage and estimated bills.
   
 ## Data Sources
 - **Source 1:** OpenDOSM Monthly  Electricity Consumption Dataset - https://open.dosm.gov.my/data-catalogue/electricity_consumption?sector=total&visual=table
