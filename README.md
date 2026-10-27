@@ -1,9 +1,9 @@
-# ElectricityCast - AI Electricity Consumption Predictor
+# MyHome Electricity Calculator
 
-> A machine learning system that predicts future electricity consumption in Malaysia using historical data and displays the results through an interactive dashboard.
+> An interactive system that helps Malaysian households estimate electricity usage and bills by choosing their house type, adding rooms and appliances in their rooms, then viewing cost breakdowns and energy-saving suggestions
 
 ## Problem Statement
-Electricity consumption changes over time due to different usage patterns and other factors. Without a prediction system, energy planners and electricity providers may find it difficult to estimate future electricity demand. AI engineering can help solve this problem by using historical electricity data to train a machine learning model that predicts future consumption.
+
 
 ## Evidence of the Problem
 - [Evidence 1 + source/citation]
@@ -15,13 +15,13 @@ Electricity consumption changes over time due to different usage patterns and ot
 - [Study/solution 3 + source/citation + key limitation]
   
 ## Project Objectives
-- O1: To develop a machine learning model that predicts future monthly electricity consumption in Malaysia
-- O2: To compare Linear Regression and Random Forest models for predicting future electricity consumption.
-- O3: To evaluate the models using Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE), and display the predictions through an interactive dashboard.
+- O1: 
+- O2: 
+- O3: 
   
 ## Target Users
-- Energy planners: To understand and estimate future electricity demand.
-- Electricity providers: To support electricity demand planning.
+- 
+- 
   
 ## Data Sources
 - **Source 1:** OpenDOSM Monthly  Electricity Consumption Dataset - https://open.dosm.gov.my/data-catalogue/electricity_consumption?sector=total&visual=table
