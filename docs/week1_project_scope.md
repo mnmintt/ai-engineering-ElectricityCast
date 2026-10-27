@@ -7,7 +7,7 @@ MyHome Electricity Calculator
 
 
 ## Problem Statement
-
+Many Malaysian households do not know which rooms and appliances consume the most electricity or how their daily habits affect their electricity bills. Existing calculators can estimate energy usage, but users may need more personalised guidance to understand their results and decide how to reduce consumption. MyHome Energy Calculator will combine electricity calculations, an interactive dashboard, AI-powered recommendations, a chatbot, and a what-if simulator to help users make more informed energy-saving decisions.
 
 ## Evidence of the Problem
 
