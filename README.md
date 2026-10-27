@@ -1,4 +1,4 @@
-# ElectricityCast- AI Electricity Consumption Predictor
+# ElectricityCast - AI Electricity Consumption Predictor
 
 > A machine learning system that predicts future electricity consumption in Malaysia using historical data and displays the results through an interactive dashboard.
 
@@ -15,8 +15,8 @@ Electricity consumption changes over time due to different usage patterns and ot
 - [Study/solution 3 + source/citation + key limitation]
   
 ## Project Objectives
-- O1: To collect and prepare historical monthly electricity consumption data from Malaysia's open data portal.
-- O2: To develop and compare Linear Regression and Random Forest models for predicting future electricity consumption.
+- O1: To develop a machine learning model that predicts future monthly electricity consumption in Malaysia
+- O2: To compare Linear Regression and Random Forest models for predicting future electricity consumption.
 - O3: To evaluate the models using Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE), and display the predictions through an interactive dashboard.
   
 ## Target Users
@@ -24,7 +24,7 @@ Electricity consumption changes over time due to different usage patterns and ot
 - Electricity providers: To support electricity demand planning.
   
 ## Data Sources
-- [Source 1: document name — URL]
+- **Source 1:** OpenDOSM Monthly  Electricity Consumption Dataset - https://open.dosm.gov.my/data-catalogue/electricity_consumption?sector=total&visual=table
 - [Source 2: document name — URL]
   
 ## Weekly Progress
