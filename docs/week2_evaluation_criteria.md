@@ -16,12 +16,3 @@
 | O1, O2 / NFR4 | Interface Usability | Usability capability | Ask five intended users to complete a bill estimation task and a home energy analysis task independently. | Number of users completing the defined tasks without assistance | At least 4 out of 5 users | Users can understand and use each feature independently. |
 | O3 / RAI3 | Privacy Protection | Instruction-following capability | Inspect outgoing AI requests for unnecessary direct personal identifiers using test household profiles. | Number of requests containing unnecessary direct personal identifiers | 0 in the defined test cases | Unnecessary personal information is not sent to the external AI service. |
 
-## Evaluation Notes
-
-- O1: Develop the Estimated Bill Calculator.
-- O2: Develop the Home Energy Calculator.
-- O3: Provide AI-based recommendations and household energy assistance within the Home Energy Calculator.
-- The two calculators have separate inputs, calculation processes, and outputs.
-- Users can access either calculator without completing the other.
-- Evaluation thresholds are proposed targets. Actual performance will be measured during testing.
-- The Estimated Bill Calculator must use documented tariff rates and clearly state its assumptions. Its result is an estimate, not a guaranteed exact TNB bill.
